@@ -1,0 +1,84 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch ArmstrongNumber",
+      "request": "launch",
+      "mainClass": "ArmstrongNumber",
+      "projectName": "first java_f512680e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome",
+      "projectName": "first java_f512680e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "first java_f512680e"
+    },
+    {
+      "type": "java",
+      "name": "Launch INRtoUSD",
+      "request": "launch",
+      "mainClass": "INRtoUSD",
+      "projectName": "first java_f512680e"
+    },
+    {
+      "type": "java",
+      "name": "Launch LargestNum",
+      "request": "launch",
+      "mainClass": "LargestNum",
+      "projectName": "first java_f512680e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "first java_f512680e"
+    },
+    {
+      "type": "java",
+      "name": "Launch SimpleInterest",
+      "request": "launch",
+      "mainClass": "SimpleInterest",
+      "projectName": "first java_f512680e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Greeting",
+      "request": "launch",
+      "mainClass": "Greeting",
+      "projectName": "first java_f512680e"
+    },
+    {
+      "type": "java",
+      "name": "Launch EvenorOdd",
+      "request": "launch",
+      "mainClass": "EvenorOdd",
+      "projectName": "first java_f512680e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch LeapYear",
+      "request": "launch",
+      "mainClass": "LeapYear",
+      "projectName": "flow of programs_bb512422"
+    }
+  ]
+}

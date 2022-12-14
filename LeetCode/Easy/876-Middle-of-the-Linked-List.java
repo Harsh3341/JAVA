@@ -20,3 +20,25 @@ class Solution {
         return A[count / 2];
     }
 }
+
+class Solution2 {
+    public ListNode middleNode(ListNode head) {
+        int count = 0;
+        ListNode ptr = head;
+
+        while(ptr != null){
+            count++;
+            ptr = ptr.next;
+        }
+
+        int mid = count/2;
+        ptr = head;
+
+        while(mid>0){
+            mid--;
+            ptr = ptr.next;
+        }
+
+        return ptr;
+    }
+}
